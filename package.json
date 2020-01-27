@@ -1,0 +1,19 @@
+{
+  "name": "node-demo1",
+  "version": "1.0.0",
+  "description": "Starting first nodejs demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajgavander09/nodejs-training.git"
+  },
+  "author": "Prajjwal Gavander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajgavander09/nodejs-training/issues"
+  },
+  "homepage": "https://github.com/Prajgavander09/nodejs-training#readme"
+}
