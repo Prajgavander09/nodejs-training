@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Prajgavander09/nodejs-training/issues"
   },
-  "homepage": "https://github.com/Prajgavander09/nodejs-training#readme"
+  "homepage": "https://github.com/Prajgavander09/nodejs-training#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
 }
